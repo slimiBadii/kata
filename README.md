@@ -1,4 +1,4 @@
-kata-dev
+kata
 =======
 
 Implementation of a bank application transfert:
